@@ -1,5 +1,5 @@
 # PuzzleCam — Gesture Capture
-**© 2026 aiwithunnati — all rights reserved**
+**© 2026 Zayne — all rights reserved**
 
 A hand-gesture controlled photobooth puzzle game that runs entirely in your browser. No installation, no backend, no frameworks. Just your hands and a webcam.
 
@@ -84,12 +84,6 @@ Allow camera access when the browser asks.
 | Firefox | works |
 | Safari | limited |
 | mobile | not recommended |
-
----
-
-## tag me!
-
-if you try this i would genuinely love to see your photobooth strip. tag me **@aiwithunnati** — have fun with it!
 
 ---
 
